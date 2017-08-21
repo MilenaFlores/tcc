@@ -25,11 +25,11 @@
                     <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/CadastroHorario');?>">Cadastro de horário</a></li>
                     <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/Cadastrotipoacesso');?>">Cadastro tipo de acesso</a></li>
                     <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/RelatorioAnual');?>">Relatório anual</a></li>
-                    <li class="item-154 parent"><a href="<?php echo base_url('index.ph="<?p/cadastro/CadastroHorario');?>">Relatório mensal</a></li>
-                    <li class="item-154 parent"><a href="<?php echo base_url('index.ph="<?p/cadastro/CadastroHorario');?>">Relatório em gráfico</a></li>
-                    <li class="item-154 parent"><a href="<?php echo base_url('index.ph="<?p/cadastro/CadastroHorario');?>">Relatório média dia letivo</a></li>
-                    <li class="item-154 parent"><a href="<?php echo base_url('index.ph="<?p/cadastro/CadastroHorario');?>"">Relatório pergamum</a></li>
-                    <li class="item-154 parent"><a href="<?php echo base_url('index.ph="<?p/cadastro/CadastroHorario');?>">Importação pergamum</a></li>
+                    <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/RelatorioMensal');?>">Relatório mensal</a></li>
+                    <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/RelatorioGrafico');?>">Relatório em gráfico</a></li>
+                    <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/Relatoriomediadialetivo');?>">Relatório média dia letivo</a></li>
+                    <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/RelatorioPergamum');?>">Relatório pergamum</a></li>
+                    <li class="item-154 parent"><a href="<?php echo base_url('index.php/cadastro/ImportacaoPergamum');?>">Importação pergamum</a></li>
                 </ul>
             </nav>
         </div>
